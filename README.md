@@ -1,4 +1,4 @@
-# FDVA Lab Manual – Experiments 1–7
+# FRAMEWORK FOR DATA AND VISUAL ANALYTICS 
 
 ## Fundamentals of Data Visualization and Analytics (FDVA)
 
